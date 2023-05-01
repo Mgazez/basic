@@ -3,7 +3,7 @@ while True:
         #numbers
         number1 = float(input("First Number: "))
         number2 = float(input("Second Number: "))
-        options = input("İşlem türü (+, -, *, /): ")
+        options = input("What action do you want to do? (+, -, *, /): ")
 
         #options
         if options == "+":
